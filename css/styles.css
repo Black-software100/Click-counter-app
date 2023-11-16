@@ -50,7 +50,9 @@ top: 30px;
 position: relative;
 top: 60px;
 }
-
+.center{
+  text-align: center;
+}
 .label {
   font-size: 200px;
 	color:rgb(54, 23, 83);
